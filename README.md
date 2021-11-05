@@ -1,2 +1,4 @@
 # hackerrank
-Exercises of Hackerrank
+Exercises of Hackerrank.
+
+Profile: https://www.hackerrank.com/stefanilimas
